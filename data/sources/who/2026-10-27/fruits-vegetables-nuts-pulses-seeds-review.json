@@ -1,0 +1,34 @@
+{
+  "id": "fruits-vegetables-nuts-pulses-seeds-review",
+  "url": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/complementary-feeding/cf-guidelines/systematic-review-fruits-and-vegetables-and-nuts-pulses-and-seeds.pdf",
+  "pdf_sha256": "26b109c152c372012a8e07f281b10fc6c3b6002af897d657dca6126d3be933c0",
+  "pdf_pages": 92,
+  "selected_pdf_pages": [
+    3,
+    4,
+    44
+  ],
+  "role": "systematic_review",
+  "publication_date": null,
+  "license": "No explicit licence located; no open-licence claim",
+  "sections": [
+    {
+      "name": "Eligibility and synthesis limitations",
+      "pdf_pages": "3"
+    },
+    {
+      "name": "Study characteristics and certainty",
+      "pdf_pages": "3–4"
+    },
+    {
+      "name": "Authors conclusions and certainty",
+      "pdf_pages": "4"
+    },
+    {
+      "name": "Implications for practice and policy",
+      "pdf_pages": "44 (printed 14)"
+    }
+  ],
+  "exclusions": "Detailed effect tables, background recommendations, references and appendices not indexed. Selected synthesis retains observational design and very low certainty.",
+  "prepared_sha256": "da6cf01d7996c6ab01e2c06a7a68e6502cc9cff02767389d22df4c4403eda12f"
+}

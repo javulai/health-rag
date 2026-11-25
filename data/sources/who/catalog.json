@@ -1,0 +1,253 @@
+{
+  "batch": "2026-10-12",
+  "scope": "Infant and young child feeding: breastfeeding, complementary feeding and caregiver counselling/hygiene",
+  "use": "Non-commercial local thesis research",
+  "review_type": "Technical source/license/extraction review; not independent clinical validation",
+  "source_license_url": "https://www.who.int/about/policies/publishing/copyright",
+  "sources": [
+    {
+      "id": "complementary-feeding-2023",
+      "isbn": "9789240081864",
+      "title": "WHO Guideline for complementary feeding of infants and young children 6–23 months of age",
+      "published_at": "2023-10-16",
+      "organization": "World Health Organization",
+      "pdf_url": "https://iris.who.int/server/api/core/bitstreams/5abca011-4db2-4cf1-b959-45b756f7b600/content",
+      "license_page": 4,
+      "topic": "Complementary feeding; infants and young children 6–23 months",
+      "role": "guideline",
+      "index": true,
+      "scope_note": "Selected recommendations 1 and 3–7 with their remarks. Recommendation 2 (alternative milks) deliberately excluded from this starter scope. This 2023 guideline supersedes the older complementary-feeding guiding principles.",
+      "sections": [
+        {
+          "name": "Continued breastfeeding — recommendation 1",
+          "pages": [
+            12
+          ],
+          "start": "Recommendation 1",
+          "end": "1 The GDG"
+        },
+        {
+          "name": "Introduction of complementary foods — recommendation 3",
+          "pages": [
+            13
+          ],
+          "start": "Recommendation 3",
+          "end": "Recommendation 4"
+        },
+        {
+          "name": "Dietary diversity — recommendation 4",
+          "pages": [
+            13
+          ],
+          "start": "Recommendation 4",
+          "end": null
+        },
+        {
+          "name": "Unhealthy foods and beverages — recommendation 5",
+          "pages": [
+            14
+          ],
+          "start": "Recommendation 5",
+          "end": "Recommendation 6"
+        },
+        {
+          "name": "Nutrient supplements and fortified foods — recommendation 6",
+          "pages": [
+            14
+          ],
+          "start": "Recommendation 6",
+          "end": null
+        },
+        {
+          "name": "Responsive feeding — recommendation 7",
+          "pages": [
+            15
+          ],
+          "start": "Recommendation 7",
+          "end": "Research gaps"
+        }
+      ],
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "language": "en",
+      "license": "CC BY-NC-SA 3.0 IGO",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/",
+      "updated_at": null,
+      "sha256": "a75cc2c922a2f1c0c8ba7b2bc2ab17cb1981ae6ae9e98da80f81fb1a37c289bf",
+      "publication_date_basis": "Official WHO publication landing page; not HTTP Last-Modified or retrieval date"
+    },
+    {
+      "id": "breastfeeding-counselling-2018",
+      "isbn": "9789241550468",
+      "title": "Guideline: counselling of women to improve breastfeeding practices",
+      "published_at": "2018-01-01",
+      "organization": "World Health Organization",
+      "pdf_url": "https://iris.who.int/server/api/core/bitstreams/fbd1222b-5bcc-42a2-8a19-3011ffa6f316/content",
+      "license_page": 4,
+      "topic": "Breastfeeding counselling; pregnancy and mothers with young children",
+      "role": "guideline",
+      "index": true,
+      "scope_note": "Executive-summary recommendations and implementation remarks only. Excludes historical prevalence estimates, evidence tables and bibliography. Publication page and PDF copyright both indicate 2018; a separate WHO digital-catalog record says 2019 and was not treated as an update.",
+      "sections": [
+        {
+          "name": "Counselling recommendations and person-centred remarks",
+          "pages": [
+            12
+          ],
+          "start": "Recommendations",
+          "end": null
+        },
+        {
+          "name": "Counselling timing and frequency",
+          "pages": [
+            13
+          ],
+          "start": null,
+          "end": null
+        },
+        {
+          "name": "Counselling mode and provider",
+          "pages": [
+            14
+          ],
+          "start": null,
+          "end": "1 Guideline:"
+        }
+      ],
+      "url": "https://www.who.int/publications/i/item/9789241550468",
+      "language": "en",
+      "license": "CC BY-NC-SA 3.0 IGO",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/",
+      "updated_at": null,
+      "sha256": "00d6ebddd9fab7297ff8e0008bd52e1bfdbad05d4ca9f50a754f18e054e8f498",
+      "publication_date_basis": "Official WHO publication landing page; not HTTP Last-Modified or retrieval date"
+    },
+    {
+      "id": "breastfeeding-facilities-2017",
+      "isbn": "9789241550086",
+      "title": "Guideline: protecting, promoting and supporting breastfeeding in facilities providing maternity and newborn services",
+      "published_at": "2017-11-02",
+      "organization": "World Health Organization",
+      "pdf_url": "https://iris.who.int/server/api/core/bitstreams/601a8af5-0919-4ffb-a11d-fb534d96ed03/content",
+      "license_page": 3,
+      "topic": "Breastfeeding support in maternity and newborn facilities",
+      "role": "guideline",
+      "index": true,
+      "scope_note": "Executive-summary recommendations and remarks only. The historical 1989 Ten Steps box on PDF page 15 is excluded; it is background, not the 2017 recommendations. Recommendations for preterm or medically indicated feeds retain their qualifications.",
+      "sections": [
+        {
+          "name": "Immediate breastfeeding support and additional needs",
+          "pages": [
+            11
+          ],
+          "start": "Recommendations",
+          "end": "1 According to"
+        },
+        {
+          "name": "Enabling environment and safety remarks",
+          "pages": [
+            12
+          ],
+          "start": null,
+          "end": null
+        },
+        {
+          "name": "Infant cues, discharge and continuing support",
+          "pages": [
+            13
+          ],
+          "start": null,
+          "end": "Research gaps"
+        }
+      ],
+      "url": "https://www.who.int/publications/i/item/9789241550086",
+      "language": "en",
+      "license": "CC BY-NC-SA 3.0 IGO",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/",
+      "updated_at": null,
+      "sha256": "192ac5cc6b548f67f6298485909cf4c680f4567f0df62525b3db5f7c47f266c5",
+      "publication_date_basis": "Official WHO publication landing page; not HTTP Last-Modified or retrieval date"
+    },
+    {
+      "id": "counselling-cards-2021",
+      "isbn": "9789240035560",
+      "title": "Infant and young child feeding counselling: an integrated course. Guidance on use of counselling cards",
+      "published_at": "2021-08-05",
+      "organization": "World Health Organization",
+      "pdf_url": "https://iris.who.int/server/api/core/bitstreams/b7af1f90-9cf4-4caa-a324-55696d8dbf16/content",
+      "license_page": 4,
+      "topic": "Counselling skills and food/hand hygiene for infant caregivers",
+      "role": "training_guidance",
+      "index": true,
+      "scope_note": "Only counselling skills and hygiene pages selected. Older complementary-feeding quantities, HIV, formula preparation, breast-milk storage and preterm clinical sections are outside this first corpus.",
+      "sections": [
+        {
+          "name": "Positive counselling skills",
+          "pages": [
+            8
+          ],
+          "start": null,
+          "end": null
+        },
+        {
+          "name": "Three-step counselling",
+          "pages": [
+            9
+          ],
+          "start": null,
+          "end": null
+        },
+        {
+          "name": "Food hygiene",
+          "pages": [
+            23
+          ],
+          "start": null,
+          "end": null
+        },
+        {
+          "name": "Critical times for hand-washing",
+          "pages": [
+            34
+          ],
+          "start": null,
+          "end": null
+        }
+      ],
+      "url": "https://www.who.int/publications/i/item/9789240035560",
+      "language": "en",
+      "license": "CC BY-NC-SA 3.0 IGO",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/",
+      "updated_at": null,
+      "sha256": "73fd2e8249b8c7eb004c698c7f10dd079a332eda940e72443c98c23539620dbc",
+      "publication_date_basis": "Official WHO publication landing page; not HTTP Last-Modified or retrieval date"
+    },
+    {
+      "id": "feeding-indicators-2021",
+      "isbn": "9789240018389",
+      "title": "Indicators for assessing infant and young child feeding practices: definitions and measurement methods",
+      "published_at": "2021-04-12",
+      "organization": "World Health Organization and UNICEF",
+      "pdf_url": "https://iris.who.int/server/api/core/bitstreams/79267f92-de90-4e1f-a162-4c1042c56929/content",
+      "license_page": 4,
+      "topic": "Population-level infant feeding measurement methods",
+      "role": "research_reference",
+      "index": false,
+      "scope_note": "Collected as a thesis/evaluation reference only. Population-survey thresholds are not individual feeding prescriptions; do not add this PDF to the caregiver retrieval corpus wholesale.",
+      "sections": [],
+      "url": "https://www.who.int/publications/i/item/9789240018389",
+      "language": "en",
+      "license": "CC BY-NC-SA 3.0 IGO",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/",
+      "updated_at": null,
+      "sha256": "b17a8f68a92ec9a0a9e0032e13bbcd663425df28bd4f3eb8a282cab27f956016",
+      "publication_date_basis": "Official WHO publication landing page; not HTTP Last-Modified or retrieval date"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "id": "counselling-implementation-2021",
+      "url": "https://www.who.int/publications/i/item/9789240032323",
+      "reason": "PDF page 2 (August 2021) requires reproduction permission, whereas a WHO digital catalog record describes CC licensing and 2025. Conflicting notices; kept out of ingestion. No permission request sent."
+    }
+  ]
+}
